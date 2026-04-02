@@ -3,7 +3,7 @@
 
 ## 📝 Overview
 
-Do emojis mean the same thing today as they did yesterday? This project explores **Semantic Drift**—the way the meaning and context of emojis evolve over time. By using **Twitter embeddings** and **Cosine Similarity**, we measure how the "contextual fingerprint" of 42 popular emojis changes between simulated time slices (2024–2025).
+Do emojis mean the same thing today as they did yesterday? This project explores **Semantic Drift**, the way the meaning and context of emojis evolve over time. By using **Twitter embeddings** and **Cosine Similarity**, we measure how the "contextual fingerprint" of 42 popular emojis changes between simulated time slices (2024–2025).
 
 ## 🚀 Key Features
 
